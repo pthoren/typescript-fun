@@ -1,4 +1,4 @@
-
+// FizzBuzz using only typescript types
 
 // equality check: extends
 // conditional branch: ternary
