@@ -1,9 +1,4 @@
-// FizzBuzz using only typescript types
-
-// equality check: extends
-// conditional branch: ternary
-// filter: [K in keyof T as T[K] extends string ? K : never]: string
-// pattern match: infer
+// fizzbuzz.ts: FizzBuzz using only the typescript type system
 
 // map an array of length l to a number l
 type Length<T extends any[]> = 
